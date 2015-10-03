@@ -1,2 +1,3 @@
 # exemplo_artigo
-Repositório de exemplo para artigo. Alteração na linha.
+Repositório <apenas um conflito> de exemplo para artigo. Alteração na linha.
+
